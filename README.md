@@ -24,9 +24,9 @@ Building elegant, high-performance apps with seamless UI and scalable architectu
 ---
 
 ### 💼 Recent Work
-- **Cruuz** – Multi-service platform with live GPS tracking, wallet system & Stripe integration *(CTO & Sr. iOS Developer)*  
 - **Zestlog** – Fitness app powered by LLMs, voice commands, and AI workout personalization  
-- **Boredom Fixer AI** – AI-powered entertainment & productivity tool  
+- **Boredom Fixer AI** – AI-powered entertainment & productivity tool
+- **Cruuz** – Multi-service platform with live GPS tracking, wallet system & Stripe integration *(CTO & Sr. iOS Developer)*  
 - **Photo GeoTagging & EXIF Reader** – Intelligent gallery app with metadata-based photo grouping  
 - **Pottybrake, Hataba, TNT, EcoSAT, Digi Forum, TopRent, Hoot, QR CSV, Ringkorn** – Custom-built apps with scalable design
 
@@ -42,9 +42,9 @@ Building elegant, high-performance apps with seamless UI and scalable architectu
 
 ### 📫 Let’s Connect
 - 🌍 [Portfolio](https://moheedzafar.github.io)
-- 💼 [Freelancer Profile](https://www.freelancer.com/u/MzHashmi)
+- 💼 [Freelancer Profile](https://www.linkedin.com/in/moheed-zafar-8a4a5716b/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/moheedzafar)
-- 📧 moheed.zafarhashmi@gmail.com
+- 📧 moheedzafarhashmi@gmail.com
 
 ---
 
