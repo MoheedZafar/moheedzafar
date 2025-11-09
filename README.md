@@ -1,56 +1,52 @@
 # 👋 Hi, I'm Moheed Zafar
 
-🚀 **Senior iOS & Full Stack Developer | CTO @ Cruuz LLC (ex)**  
-Building powerful, user-focused apps with clean architecture and seamless performance.
+🚀 **iOS Engineer | Expert in Swift, SwiftUI & Mobile App Architecture**  
+Building elegant, high-performance apps with seamless UI and scalable architecture.
 
 ---
 
-### 🧠 About Me
-- 🧩 7+ years of experience in **iOS (Swift, SwiftUI, UIKit)** development  
-- 💡 Expertise in **Clean Architecture (MVVM, VIPER)**, **HomeKit**, and **EXIF/Geo Metadata Processing**  
-- 💬 I love crafting **smooth UI animations** and **intuitive user experiences**
-- 🔧 Skilled in **App Store deployments**, **API integrations**, and **performance optimization**
-- 🤝 Passionate about mentoring teams and building scalable solutions
-
----
-
-### 💼 Notable Projects
-- 📸 **Photo Insights App** – Intelligent gallery app that classifies photos by EXIF metadata, country, and camera brand  
-- 🎵 **Radio Player** – Custom iOS audio streaming app with elegant design and real-time updates  
-- ⚡ **Electricity Tracker** – iPad app fetching live consumption data with HomeKit-style interface  
-- 🤖 **AI Tools & Automation** – Python microservices for document conversion and cloud phone automation
+### 💡 About Me
+- 📱 7+ years of experience in **iOS app development** using **Swift, SwiftUI, and UIKit**
+- 🧠 Skilled in **Clean Architecture (MVVM, MVC)**, **Core Data**, **Firebase**, and **advanced API integrations**
+- ⚙️ Experienced with **Stripe, StoreKit, Google Maps SDK, Mapbox**, and **OpenAI-powered features**
+- 🎨 Focused on **smooth animations**, **intuitive UX**, and **App Store–ready quality**
+- 🤝 Collaborated with international clients, delivering 50+ successful projects
 
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Swift, Python, JavaScript  
-**Frameworks:** SwiftUI, UIKit, CoreData, AVFoundation, Combine  
-**Tools:** Xcode, Fastlane, Firebase, App Store Connect  
-**Architecture:** MVVM, Clean Architecture, Modular Design  
+**Languages:** Swift, SwiftUI, Node.js  
+**Databases & Cloud:** Firebase, Core Data, SQLite  
+**Architecture:** MVVM, MVC, Clean Architecture  
+**Tools:** GitHub, Bitbucket, CI/CD Pipelines  
+**Integrations:** REST APIs, Stripe, StoreKit, Google Maps, Alamofire  
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/moheedzafar)
-- 🧑‍💻 [Freelancer Profile](#)
-- 📧 moheed.zafar@example.com *(replace with your real one)*
+### 💼 Recent Work
+- **Cruuz** – Multi-service platform with live GPS tracking, wallet system & Stripe integration *(CTO & Sr. iOS Developer)*  
+- **Zestlog** – Fitness app powered by LLMs, voice commands, and AI workout personalization  
+- **Boredom Fixer AI** – AI-powered entertainment & productivity tool  
+- **Photo GeoTagging & EXIF Reader** – Intelligent gallery app with metadata-based photo grouping  
+- **Pottybrake, Hataba, TNT, EcoSAT, Digi Forum, TopRent, Hoot, QR CSV, Ringkorn** – Custom-built apps with scalable design
 
 ---
 
-> *"Code is not just logic — it’s craftsmanship with empathy for the user."*  
-— Moheed Zafar
+### 🎯 What I Do Best
+- 🔹 End-to-end iOS app development (concept → App Store)
+- 🔹 API integration, subscriptions, and payment systems
+- 🔹 AI-driven and automation-based mobile features
+- 🔹 Team leadership and architecture design
 
-<!--
-**MoheedZafar/moheedzafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let’s Connect
+- 🌍 [Portfolio](https://moheedzafar.github.io)
+- 💼 [Freelancer Profile](https://www.freelancer.com/u/MzHashmi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/moheedzafar)
+- 📧 moheed.zafarhashmi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> *"I believe great apps combine elegant design, seamless performance, and clear purpose."*  
+— **Moheed Zafar**
