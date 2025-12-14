@@ -40,11 +40,9 @@ Building elegant, high-performance apps with seamless UI and scalable architectu
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Previous Work
 - 🌍 [Portfolio](https://moheedzafar.github.io)
-- 💼 [Freelancer Profile](https://www.linkedin.com/in/moheed-zafar-8a4a5716b/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/moheedzafar)
-- 📧 moheedzafarhashmi@gmail.com
+
 
 ---
 
