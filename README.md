@@ -47,4 +47,4 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 ---
 
 > *"I believe great apps combine elegant design, seamless performance, and clear purpose."*  
-"**Moheed Zafar**"
+**Moheed Zafar**
