@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Moheed Zafar
 
 🚀 **iOS Engineer | Expert in Swift, SwiftUI & Mobile App Architecture**  
-Building elegant, high-performance apps with seamless UI and scalable architecture.
+Building elegant, high performance apps with seamless UI and scalable architecture.
 
 ---
 
@@ -25,17 +25,17 @@ Building elegant, high-performance apps with seamless UI and scalable architectu
 
 ### 💼 Recent Work
 - **Zestlog** – Fitness app powered by LLMs, voice commands, and AI workout personalization  
-- **Boredom Fixer AI** – AI-powered entertainment & productivity tool
-- **Cruuz** – Multi-service platform with live GPS tracking, wallet system & Stripe integration *(CTO & Sr. iOS Developer)*  
-- **Photo GeoTagging & EXIF Reader** – Intelligent gallery app with metadata-based photo grouping  
-- **Pottybrake, Hataba, TNT, EcoSAT, Digi Forum, TopRent, Hoot, QR CSV, Ringkorn** – Custom-built apps with scalable design
+- **Boredom Fixer AI** – AI powered entertainment & productivity tool
+- **Cruuz** – Multi service platform with live GPS tracking, wallet system & Stripe integration *(CTO & Sr. iOS Developer)*  
+- **Photo GeoTagging & EXIF Reader** – Intelligent gallery app with metadata based photo grouping  
+- **Pottybrake, Hataba, TNT, EcoSAT, Digi Forum, TopRent, Hoot, QR CSV, Ringkorn** – Custom built apps with scalable design
 
 ---
 
 ### 🎯 What I Do Best
-- 🔹 End-to-end iOS app development (concept → App Store)
+- 🔹 End to end iOS app development (concept → App Store)
 - 🔹 API integration, subscriptions, and payment systems
-- 🔹 AI-driven and automation-based mobile features
+- 🔹 AI driven and automation based mobile features
 - 🔹 Team leadership and architecture design
 
 ---
@@ -47,4 +47,4 @@ Building elegant, high-performance apps with seamless UI and scalable architectu
 ---
 
 > *"I believe great apps combine elegant design, seamless performance, and clear purpose."*  
-— **Moheed Zafar**
+"**Moheed Zafar**"
