@@ -6,7 +6,7 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 ---
 
 ### 💡 About Me
-- 📱 7+ years of experience in **iOS app development** using **Swift, SwiftUI and UIKit**
+- 📱 8+ years of experience in **iOS app development** using **Swift, SwiftUI and UIKit**
 - 🧠 Skilled in **Clean Architecture (MVVM, MVC)**, **Core Data**, **Firebase** and **advanced API integrations**
 - ⚙️ Experienced with **Stripe, StoreKit, Google Maps SDK, Mapbox** and **OpenAI-powered features**
 - 🎨 Focused on **smooth animations**, **intuitive UX** and **App Store–ready quality**
