@@ -34,7 +34,7 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 
 ### 🎯 What I Do Best
 - 🔹 End to end iOS app development (concept → App Store)
-- 🔹 API integration, subscriptions, and payment systems
+- 🔹 API integration, subscriptions and payment systems
 - 🔹 AI driven and automation based mobile features
 - 🔹 Team leadership and architecture design
 
@@ -46,5 +46,5 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 
 ---
 
-> *"I believe great apps combine elegant design, seamless performance, and clear purpose."*  
+> *"I believe great apps combine elegant design, seamless performance and clear purpose."*  
 **Moheed Zafar**
