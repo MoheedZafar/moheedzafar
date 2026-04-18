@@ -16,10 +16,10 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 
 ### 🧰 Tech Stack
 **Languages:** Swift, SwiftUI, Node.js, Kotlin, React  
-**Databases & Cloud:** Firebase, Core Data,Swift Data, SQLite, Realm  
-**Architecture:** MVVM, MVC, Clean Architecture  
-**Tools:** GitHub, Bitbucket, CI/CD Pipelines  
-**Integrations:** REST APIs, Stripe, StoreKit, Google Maps, Alamofire  
+**Databases & Cloud:** Firebase, Core Data,Swift Data, SQLite and Realm  
+**Architecture:** MVVM, MVC and Clean Architecture  
+**Tools:** GitHub, Bitbucket and CI/CD Pipelines  
+**Integrations:** REST APIs, Stripe, StoreKit, Google Maps and Alamofire  
 
 ---
 
