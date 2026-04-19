@@ -15,7 +15,7 @@ Building elegant, high performance apps with seamless UI and scalable architectu
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Swift, SwiftUI, Node.js, Kotlin, React  
+**Languages:** Swift, SwiftUI, Node.js, Kotlin, React Native. 
 **Databases & Cloud:** Firebase, Core Data,Swift Data, SQLite and Realm  
 **Architecture:** MVVM, MVC and Clean Architecture  
 **Tools:** GitHub, Bitbucket and CI/CD Pipelines  
