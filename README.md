@@ -1,7 +1,7 @@
 # Hi, I'm Moheed Zafar Hashmi
 
 🚀 **iOS Engineer | Expert in Swift, SwiftUI & Mobile App Architecture**  
-Building elegant, high performance apps with seamless UI and scalable architecture.
+Building elegant and high performance apps with seamless UI and scalable architecture.
 
 ---
 
