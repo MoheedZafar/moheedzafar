@@ -6,7 +6,7 @@ Building elegant and high performance apps with seamless UI and scalable archite
 ---
 
 ### 💡 About Me
-- 📱 8+ years of experience in **Mobile app development** using **Swift, SwiftUI, Kotlin, Java, React Native**
+- 📱 8+ years of experience in **Mobile app development** using **Swift, SwiftUI, Kotlin, Java, React Native, Node.js**
 - 🧠 Skilled in **Clean Architecture (MVVM, MVC)**, **Core Data**,**Swift Data**, **Firebase** and **advanced API integrations**
 - ⚙️ Experienced with **Stripe, StoreKit, Google Maps SDK, Mapbox** and **OpenAI-powered features**
 - 🎨 Focused on **smooth animations**, **intuitive UX** and **App Store–ready quality**
