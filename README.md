@@ -34,6 +34,7 @@ Building elegant and high performance apps with seamless UI and scalable archite
 
 ### 🎯 What I Do Best
 - 🔹 End to end iOS app development (concept → App Store)
+- 🔹 End to end Android app development (concept → Play Store)
 - 🔹 API integration, subscriptions and payment systems
 - 🔹 AI driven and automation based mobile features
 - 🔹 Team leadership and architecture design
